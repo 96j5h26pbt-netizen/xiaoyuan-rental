@@ -2,8 +2,8 @@
   "name": "小源租衣铺 · 运营工作台",
   "short_name": "小源租衣铺",
   "description": "租衣店铺运营工作台 - 发货排期、每月小结、店铺衣橱管理",
-  "start_url": "./",
-  "scope": "./",
+  "start_url": "/xiaoyuan-rental/",
+  "scope": "/xiaoyuan-rental/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#FAF5FC",
@@ -13,19 +13,19 @@
   "categories": ["business", "productivity", "shopping"],
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "icon-192b.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "icon-512.png",
+      "src": "icon-512b.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "apple-touch-icon.png",
+      "src": "apple-touch-iconb.png",
       "sizes": "180x180",
       "type": "image/png",
       "purpose": "any"
@@ -36,20 +36,20 @@
     {
       "name": "发货排期",
       "short_name": "发货",
-      "url": "./index.html#shipping",
-      "icons": [{ "src": "icon-192.png", "sizes": "192x192" }]
+      "url": "/xiaoyuan-rental/#shipping",
+      "icons": [{ "src": "icon-192b.png", "sizes": "192x192" }]
     },
     {
       "name": "每月小结",
       "short_name": "账本",
-      "url": "./index.html#ledger",
-      "icons": [{ "src": "icon-192.png", "sizes": "192x192" }]
+      "url": "/xiaoyuan-rental/#ledger",
+      "icons": [{ "src": "icon-192b.png", "sizes": "192x192" }]
     },
     {
       "name": "店铺衣橱",
       "short_name": "衣橱",
-      "url": "./index.html#wardrobe",
-      "icons": [{ "src": "icon-192.png", "sizes": "192x192" }]
+      "url": "/xiaoyuan-rental/#wardrobe",
+      "icons": [{ "src": "icon-192b.png", "sizes": "192x192" }]
     }
   ]
 }
