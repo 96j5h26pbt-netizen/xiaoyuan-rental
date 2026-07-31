@@ -1,12 +1,12 @@
-const CACHE_NAME = 'xiaoyuan-rental-v1.0.3';
+const CACHE_NAME = 'xiaoyuan-rental-v1.0.4';
 const ASSETS = [
   './',
   './index.html',
   './manifest.json',
-  './icon-192.png',
-  './icon-512.png',
-  './apple-touch-icon.png',
-  './favicon-32.png'
+  './icon-192b.png',
+  './icon-512b.png',
+  './apple-touch-iconb.png',
+  './favicon-32b.png'
 ];
 
 // Install: cache all assets
